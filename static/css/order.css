@@ -1,0 +1,30 @@
+textarea {
+    /* width: 400px;*/
+    height: 100px;
+    width: 100%;
+    resize: none;
+}
+.col-md-3 {
+    margin-left: 25%;
+    max-width: 50%;
+}
+#member {
+    width: 50%;
+    font-size: large;
+    margin-left: 25%;
+    padding: 2%;
+    padding-left: 10%;
+    text-align: left;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+    border: 2px solid #4a7e7e;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.82);
+}
+.form-group{
+    margin-bottom: 0;
+}
+label{
+    padding-top: 2% !important;
+    font-size: large;
+}

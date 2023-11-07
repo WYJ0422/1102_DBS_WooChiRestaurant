@@ -1,0 +1,82 @@
+#orderDetail{
+    display: none;
+    text-align: center;
+}
+#closedetail{
+    text-align: center;
+}
+.window {
+    border: solid 2px #000000;
+    background-color: #d2eaea;
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    display: none;
+}
+#hide {
+    display: none;
+}
+#member {
+    text-align: left;
+    visibility: hidden;
+    padding: 2.5%;
+    margin-left: 25%;
+    width: 50%;
+    border: solid 2px #2e7878;
+}
+#orderdetailbyid {
+    display: none;
+    text-align: left;
+    padding: 2.5%;
+    margin-left: 25%;
+    width: 50%;
+    border: solid 2px #2e7878;
+}
+#v-pills-home-tab {
+    color: #2e7878 !important;
+}
+#v-pills-messages-tab {
+    color: #2e7878 !important;
+}
+.center {
+    text-align: center;
+    padding-top: 2.5%;
+    padding-bottom: 0.5%;
+}
+.col-2 {
+    background-color: #b7e7e7;
+    text-align: center;
+    padding-top: 0.5%;
+}
+.form-control {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+}
+.table td {
+    vertical-align: middle;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #7bdbdbba;
+    border: solid 1.5px  #2e7878;
+    margin-left: 10%;
+}
+
+.window {
+    border: solid 2px #000000;
+    background-color: #d2eaea;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    display: none;
+    z-index: 99;
+}
+.card-text{
+    text-align: left;
+    margin-left: 10%;
+}
+.bgcolor-white {
+    background-color: #fff !important;
+}

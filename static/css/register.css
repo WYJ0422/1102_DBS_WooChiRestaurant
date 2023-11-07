@@ -1,0 +1,15 @@
+.form-group{
+    padding: auto;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+    /* width: 50%; */
+    /* position: relative;
+    left: 42.5%; */
+}
+.padding{
+    padding: 2%;
+}
+input{
+    margin: 2%;
+}

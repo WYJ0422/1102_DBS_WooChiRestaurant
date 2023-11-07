@@ -1,0 +1,10 @@
+.center{
+    /* background-color: blue; */
+    text-align: center;
+}
+.d-block{
+    display: inline !important;
+}
+.padding{
+    padding-top: 2%;
+}

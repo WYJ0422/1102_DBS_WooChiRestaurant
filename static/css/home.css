@@ -1,0 +1,25 @@
+th, td {
+    /* display: inline-block !important; */
+    text-align: left;
+}
+th {
+    background-color: #6FB7B7;
+}
+td {
+    padding: 5%;
+    background-color: #ffffff;
+}
+
+#restaurant {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    background-color: #fff;
+}
+.card-body {
+    border: 2px solid #6fb7b77e !important;
+}
+.border {
+    padding: 2%;
+    border: 2px solid #6fb7b77e !important;
+}

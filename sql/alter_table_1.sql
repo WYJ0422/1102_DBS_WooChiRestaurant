@@ -1,0 +1,2 @@
+ALTER TABLE PETS
+ADD type CHAR(1);

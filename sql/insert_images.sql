@@ -1,0 +1,11 @@
+INSERT INTO images (i_id,u_id,image) VALUES (1,1,'../static/img/menu/p1.PNG'); 
+INSERT INTO images (u_id,image) VALUES (1,'../static/img/menu/p2.PNG'); 
+INSERT INTO images (u_id,image) VALUES (1,'../static/img/menu/p3.PNG'); 
+INSERT INTO images (u_id,image) VALUES (1,'../static/img/menu/p4.PNG'); 
+INSERT INTO images (u_id,image) VALUES (1,'../static/img/menu/p5.PNG'); 
+INSERT INTO images (u_id,image) VALUES (1,'../static/img/menu/p6.PNG'); 
+INSERT INTO images (u_id,image) VALUES (1,'../static/img/menu/p7.PNG'); 
+INSERT INTO images (u_id,image) VALUES (1,'../static/img/menu/p8.PNG'); 
+INSERT INTO images (u_id,image) VALUES (1,'../static/img/menu/p9.PNG'); 
+INSERT INTO images (u_id,image) VALUES (1,'../static/img/menu/p10.PNG'); 
+INSERT INTO images (u_id,image) VALUES (1,'../static/img/menu/p11.PNG'); 

@@ -1,0 +1,67 @@
+#editmember{
+    visibility: hidden;
+    display: inline-block;
+    text-align: center;
+    width: 40%;
+    margin: 2.5%;
+}
+#orderDetail{
+    display: none;
+}
+#v-pills-home-tab {
+    color: #2e7878 !important;
+}
+#v-pills-messages-tab {
+    color: #2e7878 !important;
+}
+.window {
+    border: solid 2px #000000;
+    background-color: #d2eaea;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    display: none;
+    z-index: 99;
+}
+.center {
+    text-align: center;
+    padding-top: 2.5%;
+    padding-bottom: 0.5%;
+}
+.table td {
+    vertical-align: middle;
+}
+
+/* .col-10 {
+    text-align: center;
+} */
+#member {
+    padding: 2.5%;
+    margin-left: 25%;
+    width: 50%;
+    border: solid 2px #2e7878;
+    text-align: left;
+}
+.col-2 {
+    background-color: #b7e7e7;
+    text-align: center;
+    padding-top: 0.5%;
+}
+.tab-content>.active {
+    text-align: center;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #7bdbdbba;
+    border: solid 1.5px  #2e7878;
+    margin-left: 10%;
+}
+
+.bgcolor-white {
+    background-color: #fff !important;
+}
+
+.card-text {
+    display: inline-block;
+    text-align: left;
+}

@@ -1,0 +1,35 @@
+.petsImage{
+    height: 90%;
+    width: 95%;
+    position: relative;
+    top: 10.5px;
+    left: 10.5px;
+    
+}
+.row .no-gutters{
+    height: 250px;
+    background-color: rgba(130, 192, 192, 0.3);
+}
+.card-title{
+    font-weight:bold;
+}
+
+.nav-pills .nav-link.active {
+    background-color: rgb(47, 138, 138);
+}
+
+.card-body {
+    text-align: left;
+}
+.card {
+    border: solid;
+}
+.center{
+    text-align: center;
+}
+.padding{
+    padding-top: 2%;
+}
+.nav{
+    display: inline-flex;
+}
